@@ -1,10 +1,10 @@
 # Enigma
-A message encrypting website using algorithms of **Morse Code** and **Caeser Cipher**. User can encrypt their message in any two of these languages.
+A message encrypting website using algorithms of **Morse Code** and **Caesar Cipher**. User can encrypt their message in any two of these languages.
 
 ## Algorithm
-Two separate algorithm are used, one for Morse Code and other for Caeser Cipher.
+Two separate algorithm are used, one for Morse Code and other for Caesar Cipher.
 
-For **Caeser Cipher** constraint of **fixed** 5 increment is used to encrypt the message.
+For **Caesar Cipher** constraint of **fixed** 5 increment is used to encrypt the message.
 
 For **Morse Code** an array of encrypted alphabets and number is used to replace with characters of message inputed.
 
