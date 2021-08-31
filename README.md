@@ -1,3 +1,13 @@
+<p align="center">
+    <img src="https://img.shields.io/badge/-Crytography-000000?style=flat&logo=letsencrypt&logoColor=c2c2c2" alt="Cryptography" height="28">
+    &nbsp; &nbsp; 
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="28">
+    &nbsp; &nbsp; 
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS" height="28">
+    &nbsp; &nbsp; 
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="Javascript" height="30">
+</p>
+
 # Enigma
 A message encrypting website using algorithms of **Morse Code** and **Caesar Cipher**. User can encrypt their message in any two of these languages.
 
