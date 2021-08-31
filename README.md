@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/-Cryptography-000000?style=flat&logo=letsencrypt&logoColor=c2c2c2" alt="Cryptography" height="28">
+    <img src="https://img.shields.io/badge/-Cryptography-000000?style=flat" alt="Cryptography" height="30">
     &nbsp; &nbsp; 
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="28">
     &nbsp; &nbsp; 
